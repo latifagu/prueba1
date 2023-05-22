@@ -3,6 +3,6 @@ JHGHGJHAJF Ii
 drdghgjkkjl
 hhk
 fgjlkñjl´kjhñlop
-def saludo():
-    print("hola mundo")
-saludo()
+def saludo(first name, last name):
+    print(?"hola mundo{first name} {last name}")
+saludo("jose", "maria")
